@@ -19,7 +19,6 @@
 ---
 
 ### 🛠️ Tech Stack
-☁️ Cloud & Infrastructure
 #### ☁️ Cloud
 - AWS: EC2, VPC, S3, IAM, RDS, Route 53, CloudFront, WAF, Lambda, EKS, ECR, ACM, CloudWatch
 
