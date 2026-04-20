@@ -1,9 +1,18 @@
-Hi, I'm Yenuga Vikram 👋  
-DevOps & Cloud Engineer | AWS · Kubernetes · Terraform · Docker | B.Tech CSE (AI & ML)  
+<!-- 🔥 Animated DevOps Cloud Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Vikram%20Yenuga&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60" />
+
+<!-- 👨‍💻 Intro -->
+<h1 align="center">Hi 👋, I'm Yenuga Vikram</h1>
+<h3 align="center">DevOps & Cloud Engineer | AWS · Kubernetes · Terraform · Docker</h3>
+
+<!-- 🔧 DevOps Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github" />
+</p>
 
 ---
 
-🚀 About Me  
+## 🚀 About Me  
 🎓 B.Tech CSE (AI & ML) graduate from Sri Vasavi Institute of Engineering and Technology (2024)  
 ☁️ Passionate about building scalable cloud infrastructure on AWS  
 🔧 Hands-on experience with full DevOps lifecycle — CI/CD, containerization, orchestration & monitoring  
@@ -15,88 +24,84 @@ DevOps & Cloud Engineer | AWS · Kubernetes · Terraform · Docker | B.Tech CSE 
 
 ---
 
-🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
-☁️ Cloud & Infrastructure  
+### ☁️ Cloud & Infrastructure  
 AWS (EC2, VPC, S3, IAM, RDS, Route53, CloudFront, WAF, Lambda, EKS, ECR, ACM)  
 
-🐳 Containers & Orchestration  
+### 🐳 Containers & Orchestration  
 Docker · Kubernetes · Amazon EKS  
 
-⚙️ CI/CD & DevOps  
+### ⚙️ CI/CD & DevOps  
 GitHub Actions · Jenkins · GitLab CI · Argo CD · Ansible  
 
-📊 Monitoring & Logging  
+### 📊 Monitoring & Logging  
 Prometheus · Grafana · AWS CloudWatch  
 
-💻 OS & Tools  
+### 💻 OS & Tools  
 Linux · Bash · YAML · Git  
 
 ---
 
-🏗️ Featured Projects  
+## 🏗️ Featured Projects  
 
-🚀 Cloud-Based Web Application Deployment on AWS  
-Deployed scalable web application on AWS EC2 with secure networking  
-
+### 🚀 Cloud-Based Web Application Deployment on AWS  
+- Deployed web app on AWS EC2 using Linux & Nginx  
 - Configured VPC, IAM roles, Security Groups & Elastic IP  
 - Implemented Load Balancer for high availability  
 - Automated deployments using Bash scripts  
-Tech: AWS · EC2 · Nginx · Linux  
+**Tech:** AWS · EC2 · Nginx · Linux  
 
 ---
 
-⚙️ CI/CD Pipeline Implementation  
-End-to-end automation of build, test, and deployment  
-
+### ⚙️ CI/CD Pipeline Implementation  
 - Built pipelines using Jenkins & GitHub Actions  
-- Integrated Maven & SonarQube for quality checks  
-- Containerized apps and pushed images to Amazon ECR  
-Tech: Jenkins · GitHub Actions · Docker · AWS  
+- Automated build, test & deployment workflows  
+- Integrated Maven & SonarQube for code quality  
+- Dockerized apps and pushed images to Amazon ECR  
+**Tech:** Jenkins · GitHub Actions · Docker · AWS  
 
 ---
 
-🐳 Kubernetes Deployment on AWS EKS  
-Containerized and deployed applications on Kubernetes cluster  
-
-- Created Deployments, Services, ConfigMaps using YAML  
+### 🐳 Kubernetes Deployment on AWS EKS  
+- Deployed containerized apps on Kubernetes (EKS)  
+- Created YAML manifests (Deployments, Services, ConfigMaps)  
 - Implemented rolling updates & health checks  
-- Managed secrets securely using Kubernetes Secrets  
-Tech: Kubernetes · AWS EKS · Docker  
+- Managed secrets using Kubernetes Secrets  
+**Tech:** Kubernetes · AWS EKS · Docker  
 
 ---
 
-📊 Monitoring & Centralized Logging  
-Real-time monitoring and log management system  
-
+### 📊 Monitoring & Centralized Logging  
 - Configured Prometheus & Grafana dashboards  
 - Centralized logs using AWS CloudWatch  
-- Improved observability and debugging efficiency  
-Tech: Prometheus · Grafana · CloudWatch  
+- Improved observability and troubleshooting  
+**Tech:** Prometheus · Grafana · CloudWatch  
 
 ---
 
-🏅 Certifications  
-🎓 Multi-Cloud DevOps Training — (Hands-on)  
+## 🏅 Certifications  
+🎓 Multi-Cloud DevOps Training (Hands-on)  
 🌱 AWS Certification — In Progress  
 
 ---
 
-💼 Experience  
-DevOps Trainee (Hands-on Projects & Labs)  
-
+## 💼 Experience  
+**DevOps Trainee (Hands-on Projects & Labs)**  
 - Worked on real-time AWS & DevOps tools  
 - Built CI/CD pipelines and Kubernetes deployments  
 - Gained practical experience with Docker, Terraform & monitoring tools  
 
 ---
 
-📊 GitHub Stats  
-![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=VikramYenuga&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VikramYenuga&show_icons=true&theme=radical" />
+</p>
 
 ---
 
-📫 Let's Connect  
+## 📫 Let's Connect  
 
 I'm actively looking for **DevOps Engineer / Cloud Engineer roles**  
 
@@ -105,4 +110,7 @@ I'm actively looking for **DevOps Engineer / Cloud Engineer roles**
 📍 Location: Hyderabad, India  
 ✅ Immediate joiner  
 
+---
+
+### 🔥 Quote  
 "Automating infrastructure today for a scalable tomorrow." 🚀
