@@ -1,5 +1,5 @@
-<!-- 🔥 Animated DevOps Cloud Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Yenuga%20Vikram&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60" />
+<!-- 🔥 AWS Cloud Themed Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:87CEFA&height=220&section=header&text=Yenuga%20Vikram&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60" />
 
 <!-- 👨‍💻 Intro -->
 <h1 align="center">Hi 👋, I'm Yenuga Vikram</h1>
@@ -96,7 +96,9 @@ Linux · Bash · YAML · Git
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikramYenuga&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VikramYenuga&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=VikramYenuga&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramYenuga&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
