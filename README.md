@@ -1,5 +1,5 @@
 <!-- 🔥 Animated DevOps Cloud Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Vikram%20Yenuga&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Yenuga%20Vikram&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60" />
 
 <!-- 👨‍💻 Intro -->
 <h1 align="center">Hi 👋, I'm Yenuga Vikram</h1>
