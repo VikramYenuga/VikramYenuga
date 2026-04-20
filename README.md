@@ -1,5 +1,5 @@
-<!-- 🔥 AWS Cloud Themed Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:87CEFA&height=220&section=header&text=Yenuga%20Vikram&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60" />
+<!-- 🔥 Fixed AWS Cloud Themed Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:3B82F6,100:87CEFA&height=220&section=header&text=Yenuga%20Vikram&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20AWS%20|%20Kubernetes%20|%20Terraform&descAlignY=60" />
 
 <!-- 👨‍💻 Intro -->
 <h1 align="center">Hi 👋, I'm Yenuga Vikram</h1>
